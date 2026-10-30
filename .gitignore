@@ -1,0 +1,15 @@
+# build outputs
+*.o
+*.out
+*.exe
+bin/
+build/
+*.log
+.vscode/
+parallel-sort/mysort
+parallel-sort/sorting1
+parallel-sort/sorting2
+readers-writers-shm/creator
+readers-writers-shm/reader
+readers-writers-shm/writer
+readers-writers-shm/purger
